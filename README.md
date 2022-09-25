@@ -14,11 +14,11 @@ This tutorial is part of a bigger group of tutorials about web development, this
 
 ## You will learn the following concepts:
 
-1. How to select elements from your website 
+1. How to select elements from your website. 
 
 2. Manipulate them with Javascript (change styles, add event listeners).
 
-3. Remove elements programmaticall.
+3. Remove elements programmatically.
 
 4. Change your entire website without a refresh.
 
